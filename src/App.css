@@ -2,11 +2,15 @@
 background-color: #055c90;
 padding: 10px;
 border-radius: 5px;
+color: white;
+
 }
 
 .user-input {
   border-radius: 5px;
   padding: 5px;
+  margin-right: 5px;
+  border: #055c90 2px solid;
 }
 
 body {
@@ -21,9 +25,13 @@ body {
   padding: 30px;
   background-color: white;
   width: 250px;
+  border-radius: 5px;
 }
 
 .header {
+  font-weight: bold;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   display: flex;
   justify-content: center;
+  color: white;
 }
