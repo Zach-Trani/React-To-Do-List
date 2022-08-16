@@ -1,0 +1,29 @@
+.button {
+background-color: #055c90;
+padding: 10px;
+border-radius: 5px;
+}
+
+.user-input {
+  border-radius: 5px;
+  padding: 5px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  background-color: #055c90;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  background-color: white;
+  width: 250px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
